@@ -1,6 +1,6 @@
 # BzSound
 
-[English](README.md) | **Deutsch**
+[English](README.en.md) | **Deutsch**
 
 Ein CounterStrikeSharp-Plugin für Counter-Strike 2, das für alle Spieler einen Sound abspielt, sobald jemand ein Trigger-Wort in den Chat schreibt.
 
